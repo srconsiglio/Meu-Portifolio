@@ -1,0 +1,34 @@
+h1{
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+
+h2{
+    color: white;
+}
+
+.SobreMim h1{
+    color: white;
+    font-size: large;
+    padding-top: 50px;
+}
+
+.SobreMim p{
+    color: white;
+    padding-left: 15px;
+    margin : 0 100px;
+    text-align: justify;
+    padding-bottom: 300px;
+    padding-top: 10px;
+}
+
+.LogoText{
+    display: flex;
+    align-items: center;
+    font-size: xx-large;
+
+}
+
+.LogoText h1{
+    padding: 0px;
+}

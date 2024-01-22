@@ -1,0 +1,60 @@
+.Logo{
+    width: 150px;
+    right: 250px;
+}
+
+h1{
+    color: white;
+    padding-left: 15px;
+}
+
+h3{
+    color: white;
+
+}
+
+
+.Tabelas{
+    display: flex;
+    justify-content: space-around;
+    text-align: justify;
+    padding-bottom: 300px;
+}
+
+.Contato{
+    display: flex;
+    align-items: center;
+    font-size: xx-large;
+    padding-bottom: 200px;
+}
+
+.Contato h1{
+    padding: 0px;
+}
+
+.Git{
+    width: 50px;
+    right: 50px;
+}
+
+.Linkedin{
+    width: 50px;
+    right: 50px;
+}
+
+.email{
+    width: 50px;
+    right: 50px;
+}
+
+.Git{
+    padding-left: 70px;
+}
+
+.Linkedin{
+    padding-left: 70px;
+}
+
+.email{
+    padding-left: 70px;
+}

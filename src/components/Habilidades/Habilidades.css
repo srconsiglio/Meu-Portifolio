@@ -1,0 +1,112 @@
+.Logo{
+    width: 150px;
+    right: 250px;
+}
+
+.Titulo{
+    padding-bottom: 50px;
+}
+
+h1{
+    color: white;
+    padding-left: 15px;
+}
+
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+.Habilidades{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 300px;
+    
+}
+
+
+
+.HabilidadesUm{
+    width: 100px;
+    right: 200px;
+    justify-content: center;
+}
+
+
+.HabilidadesDois{
+    width: 100px;
+    right: 200px;
+}
+
+
+.HabilidadesTres{
+    width: 100px;
+    right: 200px;
+}
+
+
+.HabilidadesQuatro{
+    width: 100px;
+    right: 200px;
+}
+
+
+.HabilidadesCinco{
+    width: 100px;
+    right: 200px;
+}
+
+.HabilidadesSeis{
+    width: 100px;
+    right: 200px;
+}
+
+.Contato{
+    margin-bottom: 50px;
+}
+
+
+.Titulo{
+    display: flex;
+    align-items: center;
+    font-size: xx-large;
+
+}
+
+.Titulo h1{
+    padding: 0px;
+}
+
+.React{
+    width: 50px;
+    right: 50px;
+}
+
+.Java{
+    width: 50px;
+    right: 50px;
+}
+
+.Css{
+    width: 50px;
+    right: 50px;
+}
+
+.Html{
+    width: 50px;
+    right: 50px;
+}
+
+.Sql{
+    width: 50px;
+    right: 50px;
+}
+
+.Node{
+    width: 50px;
+    right: 50px;
+}
